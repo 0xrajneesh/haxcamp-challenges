@@ -8,7 +8,7 @@ Analyze a log file on a Linux (Ubuntu) Virtual Machine using basic CLI tools.
 🛠️ **Procedure:**
 
 **Step 1: Install Ubuntu on VirtualBox**  
-- Download the Ubuntu ISO image from the official site: [https://ubuntu.com/download](https://ubuntu.com/download)  
+- Download the Ubuntu Server ISO image from the official site: [https://ubuntu.com/download](https://ubuntu.com/download/server  
 - Open VirtualBox and create a new virtual machine.  
   - **Name:** Ubuntu Log Analysis  
   - **Type:** Linux | **Version:** Ubuntu (64-bit)  
